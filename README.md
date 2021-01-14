@@ -1,2 +1,2 @@
 # git
-我的第一个git仓库
+用来测试go modules的个人项目
